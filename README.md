@@ -1,2 +1,2 @@
 ### Pacman Game JS
-#### Imcompleto 
+#### Incompleto 
